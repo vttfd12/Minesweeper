@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <!-- background -->
+  <rect width="16" height="16" fill="#6bb6b6"/>
+
+  <!-- grid tiles -->
+  <rect x="2" y="2" width="4" height="4" fill="#e5e7eb"/>
+  <rect x="6" y="2" width="4" height="4" fill="#e5e7eb"/>
+  <rect x="10" y="2" width="4" height="4" fill="#e5e7eb"/>
+
+  <rect x="2" y="6" width="4" height="4" fill="#e5e7eb"/>
+  <rect x="6" y="6" width="4" height="4" fill="#9ca3af"/>
+  <rect x="10" y="6" width="4" height="4" fill="#e5e7eb"/>
+
+  <rect x="2" y="10" width="4" height="4" fill="#e5e7eb"/>
+  <rect x="6" y="10" width="4" height="4" fill="#e5e7eb"/>
+  <rect x="10" y="10" width="4" height="4" fill="#e5e7eb"/>
+
+  <!-- bomb body -->
+  <rect x="7" y="7" width="2" height="2" fill="#111827"/>
+  <rect x="6" y="8" width="4" height="2" fill="#111827"/>
+  <rect x="7" y="10" width="2" height="1" fill="#111827"/>
+
+  <!-- eyes -->
+  <rect x="7" y="8" width="1" height="1" fill="#ffffff"/>
+  <rect x="9" y="8" width="1" height="1" fill="#ffffff"/>
+
+  <!-- smile -->
+  <rect x="7" y="9" width="3" height="1" fill="#ffffff"/>
+
+  <!-- fuse -->
+  <rect x="9" y="6" width="1" height="1" fill="#111827"/>
+  <rect x="10" y="5" width="1" height="1" fill="#facc15"/>
+</svg>
