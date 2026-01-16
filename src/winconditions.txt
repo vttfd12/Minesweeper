@@ -1,2 +1,0 @@
----All cells that are not mines and are not flagged are revealed---
----All mines are flagged---
