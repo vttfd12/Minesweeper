@@ -1,5 +1,14 @@
 # Minesweeper (React)
 
+## Code Attribution
+
+The core board generation logic in Minesweeper.js was adapted from an external source.
+
+-> https://github.com/binaryluke/Minesweeper
+
+All React components, state management, UI flow, difficulty selection, win/loss logic, theming, and localStorage-based leaderboard functionality were implemented by me.
+
+
 ## Overview
 A browser-based implementation of the classic **Minesweeper** game built with **React**.  
 This project focuses on clean component separation, predictable state management, user interaction handling, and game rule evaluation.
@@ -32,10 +41,7 @@ ThemeToggle.jsx    → Light/Dark theme switching
 Minesweeper.js     → External board generation helper
 
 
-Code Attribution
 
-The core board generation logic in Minesweeper.js was adapted from an external source.
-All React components, state management, UI flow, difficulty selection, win/loss logic, theming, and localStorage-based leaderboard functionality were implemented by me.
 
 What I Learned
     Managing application state across multiple React components
