@@ -30,14 +30,13 @@ Players can select difficulty levels, interact with the game board, and track wi
 ```bash
 npm install
 npm run dev
-
+```
+main.jsx           → Vite/Root Initialization
 App.jsx            → Main application state & orchestration
 Pregame.jsx        → Difficulty selection & setup
-Game.jsx           → Core gameplay logic
-Board.jsx          → Grid rendering
-Cell.jsx           → Individual cell behavior
+WinCondition.jsx   → Checking For Errors / Wins
+CreateBoard.jsx    → Grid rendering
 Leaderboard.jsx    → High score persistence & display
-ThemeToggle.jsx    → Light/Dark theme switching
 Minesweeper.js     → External board generation helper
 
 
