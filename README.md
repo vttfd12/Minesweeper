@@ -33,13 +33,13 @@ npm run dev
 ```
 
 ## Class Uses
-main.jsx           → Vite/Root Initialization
-App.jsx            → Main application state & orchestration
-Pregame.jsx        → Difficulty selection & setup
-WinCondition.jsx   → Checking For Errors / Wins
-CreateBoard.jsx    → Grid rendering
-Leaderboard.jsx    → High score persistence & display
-Minesweeper.js     → External board generation helper
+main.jsx           → Vite/Root Initialization\
+App.jsx            → Main application state & orchestration\
+Pregame.jsx        → Difficulty selection & setup\
+WinCondition.jsx   → Checking For Errors / Wins\
+CreateBoard.jsx    → Grid rendering\
+Leaderboard.jsx    → High score persistence & display\
+Minesweeper.js     → External board generation helper\
 
 
 ## What I Learned
