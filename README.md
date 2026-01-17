@@ -31,6 +31,8 @@ Players can select difficulty levels, interact with the game board, and track wi
 npm install
 npm run dev
 ```
+
+## Class Uses
 main.jsx           → Vite/Root Initialization
 App.jsx            → Main application state & orchestration
 Pregame.jsx        → Difficulty selection & setup
@@ -40,9 +42,7 @@ Leaderboard.jsx    → High score persistence & display
 Minesweeper.js     → External board generation helper
 
 
-
-
-What I Learned
+## What I Learned
     Managing application state across multiple React components
     Handling user input and event-driven updates
     Implementing game logic and edge-case handling
